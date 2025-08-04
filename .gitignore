@@ -1,0 +1,9 @@
+build
+cmake-build-debug
+concept/bin
+concept/include
+concept/lib
+concept/lib64
+concept/share
+concept/*.wav
+concept/*.png
